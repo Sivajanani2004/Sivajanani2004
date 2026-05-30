@@ -54,15 +54,11 @@ class SivaJanani:
 
     def motto(self):
         return "Build intelligent systems. Let data do the talking."
-
 me = SivaJanani()
 print(me.motto())
-```
-
+` ` `
 <br clear="right"/>
-
----
-
+```
 ## 🛠️ Tech Stack
 
 **Languages & Core**
