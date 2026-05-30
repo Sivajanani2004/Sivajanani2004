@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siva+Janani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+Developer+%7C+AI%2FML+Engineer+%7C+Generative+AI+Developer+%7C+Data+Scientist&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siva+Janani+R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python+Developer+%7C+Backend+Engineer+%7C+AI%2FML+%7C+Generative+AI+%7C+Data+Science&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Siva+Janani+%F0%9F%91%8B;Python+%7C+FastAPI+%7C+ML+%7C+NLP+Developer;Generative+AI+%26+Data+Science+Enthusiast;Building+AI-Powered+Data-Driven+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Siva+Janani+%F0%9F%91%8B;Python+%7C+FastAPI+%7C+LLMs+%7C+RAG+Developer;Building+AI-Powered+Backend+Systems;Generative+AI+%26+Data+Science+Enthusiast;Turning+Data+into+Decisions+%F0%9F%94%8D" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,35 +10,41 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sivajanani2004&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  <a href="mailto:sivajanani07@gmail.com"><img src="https://img.shields.io/badge/Email-sivajanani07%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/siva-janani-r-55b359366/"><img src="https://img.shields.io/badge/LinkedIn-Siva+Janani-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/JananiR03/"><img src="https://img.shields.io/badge/LeetCode-JananiR03-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  &nbsp;
+  <a href="mailto:sivajanani07@gmail.com"><img src="https://img.shields.io/badge/Gmail-sivajanani07%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/siva-janani-r-55b359366"><img src="https://img.shields.io/badge/LinkedIn-Siva%20Janani-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/Sivajanani2004"><img src="https://img.shields.io/badge/GitHub-Sivajanani2004-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class SivaJanani:
     def __init__(self):
-        self.name         = "Siva Janani"
-        self.location     = "Tamil Nadu, India"
+        self.name         = "Siva Janani R"
+        self.location     = "Kanyakumari, Tamil Nadu, India"
         self.degree       = "B.Sc Computer Science"
-        self.email        = "sivajanani07@gmail.com"
+        self.university   = "Manonmaniam Sundaranar University"
+        self.cgpa         = 7.07
 
         self.stack = [
-            "Python", "FastAPI", "SQL",
-            "Machine Learning", "Deep Learning",
-            "NLP", "Generative AI",
-            "Power BI", "Tableau", "Streamlit"
+            "Python", "FastAPI", "SQLAlchemy",
+            "LLMs", "RAG", "LangChain",
+            "TensorFlow", "PyTorch", "Scikit-learn",
+            "NLP", "Streamlit", "Docker",
+            "Power BI", "SQL", "Pandas", "NumPy"
         ]
 
         self.currently_learning = [
-            "LLMs", "RAG", "AI Agents",
-            "Advanced FastAPI", "Deep Learning"
+            "Advanced RAG Pipelines", "AI Agents",
+            "OpenAI GPT-4", "LLaMA 2",
+            "Vector Databases (FAISS)", "Prompt Engineering"
         ]
 
         self.fun_fact = (
@@ -47,7 +53,7 @@ class SivaJanani:
         )
 
     def motto(self):
-        return "Turn data into decisions. Turn ideas into systems."
+        return "Build intelligent systems. Let data do the talking."
 
 me = SivaJanani()
 print(me.motto())
@@ -59,44 +65,59 @@ print(me.motto())
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**Frameworks & Libraries**
+**Backend & Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**AI / ML**
+**AI / ML / GenAI**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-BF91F3?style=flat-square&logo=pytorch&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-F54F3B?style=flat-square&logo=groq&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-70A5FD?style=flat-square&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-38BDAE?style=flat-square&logo=spacy&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-70A5FD?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-BF91F3?style=flat-square&logo=meta&logoColor=white)
+
+**Data Science & Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Visualization & BI**
+**DevOps & Tools**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Cloud & DevOps / Tools**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20EC2%2FS3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -137,33 +158,33 @@ print(me.motto())
 
 ---
 
-## 💼 Work Experience
+## 💼 Training & Certifications
 
 <details>
-<summary><b>🏢 Karka AI & Tech Academy — Generative AI Full Stack Development Trainee | 2024 – 2025 | Tamil Nadu, India</b></summary>
+<summary><b>🤖 Karka AI & Tech Academy — Gen AI Full Stack Development | Nov 2025 – Mar 2026 | Tamil Nadu</b></summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative%20AI-70A5FD?style=flat-square&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-38BDAE?style=flat-square&logo=spacy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-70A5FD?style=flat-square&logo=openai&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- 🎓 Completed an intensive **Generative AI Full Stack Development** training program covering LLMs, RAG, AI Agents, and production-grade API development
-- ⚙️ Built and deployed **backend applications** using FastAPI with sequential workflow processing, validation pipelines, and REST API endpoints
-- 🤖 Developed **NLP & ML models** for sentiment classification, text preprocessing, and prediction on real-world product review datasets
-- 📊 Designed **Power BI dashboards** with KPI cards, category analysis, and interactive sales insights for business decision-making
+- 🤖 Built **LLM-powered applications** using OpenAI GPT-4, Groq API, and Hugging Face models with prompt engineering techniques
+- ⚙️ Developed **production-grade FastAPI backends** with RAG pipelines, vector embeddings (FAISS), and REST API design patterns
+- 🐳 Implemented **Docker-based deployment**, modular backend architecture, API testing, logging, and debugging workflows
+- 🔗 Integrated **LangChain** for semantic search, document retrieval, and AI-driven automation workflows
 
 </details>
 
 <details>
-<summary><b>🎓 Data Science Training Program — Data Science Trainee | 8 Months | Tamil Nadu, India</b></summary>
+<summary><b>📊 GTech Institution — Data Science Certification | Dec 2024 – Sep 2025 | Tamil Nadu</b></summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 📚 Completed an **8-month intensive Data Science program** covering the end-to-end data pipeline from cleaning to visualization
-- 🧹 Mastered **data cleaning, transformation, and analysis** using Python (Pandas, NumPy) on large real-world datasets
-- 📈 Created **interactive business intelligence dashboards** using Power BI and Tableau to communicate data insights clearly
-- 🗄️ Worked with **MySQL** for structured data management, querying, and reporting workflows
+- 📚 Mastered **end-to-end data science pipeline** — data preprocessing, EDA, statistical analysis, feature engineering, and predictive modeling
+- 📊 Analyzed **8,000+ sales and customer records** using SQL and Python to extract actionable business insights
+- 📈 Built **interactive Power BI dashboards** with KPI cards, funnel analysis, and category-level reporting
+- 🤖 Applied **ML algorithms** (regression, classification, clustering) using Scikit-learn on real-world datasets
 
 </details>
 
@@ -174,10 +195,12 @@ print(me.motto())
 <div align="center">
 
 | Project | Stack | Highlights |
-|--------|-------|------------|
-| [📊 Amazon Sales Dashboard](https://github.com/Sivajanani2004) | Python · Pandas · Power BI | Cleaned & transformed Amazon sales data; built interactive dashboards with KPI cards, category analysis, and business-focused visualizations |
-| [⚙️ Backend Validation Workflow System](https://github.com/Sivajanani2004) | Python · FastAPI | Implemented sequential Validation → Ledger Update → Notification pipeline; ensured ordered execution and full process integrity |
-| [🔍 Product Review Sentiment Analysis](https://github.com/Sivajanani2004) | Python · NLP · Machine Learning | Built sentiment classification model with text preprocessing, ML algorithms, and end-to-end prediction pipeline on product reviews |
+|---------|-------|------------|
+| [🏥 AI Clinical Workflow System](https://github.com/Sivajanani2004/AI_Clinical) | Python · FastAPI · RAG · LangChain · Docker · SQLite | Managed 200+ patient records; built RAG assistant for clinical docs; designed & tested 10+ REST APIs; Dockerized for production deployment |
+| [💬 AI Chat Assistant](https://github.com/Sivajanani2004/Chat_Assistant) | Python · FastAPI · Groq API · Hugging Face · SQLAlchemy | LLM-powered assistant with summarization, translation & keyword extraction; integrated Hugging Face for multimodal image generation |
+| [🔍 Product Review Sentiment Analysis](https://github.com/Sivajanani2004/Product-Reviews-Sentiment-Analysis) | Python · TensorFlow · NLTK · Scikit-learn · Streamlit | LSTM-based model with **85% accuracy** on 1,000+ reviews; TF-IDF feature engineering; real-time Streamlit prediction interface |
+| [📊 Shopify Sales & Funnel Dashboard](https://github.com/Sivajanani2004/Shopify_Sales_Report) | Python · Pandas · R · SQL · Power BI | Analyzed **8,000+ sales records**; EDA + statistical analysis; interactive Power BI dashboards; optimized SQL queries for reporting |
+| [📋 Student Attendance Tracker](https://github.com/Sivajanani2004/Student_Attendance_Tracker) | Python · FastAPI · SQLAlchemy · SQLite · SQL | RESTful attendance management backend; optimized SQL queries; applied Git workflows and modular API design principles |
 
 </div>
 
@@ -189,12 +212,13 @@ print(me.motto())
 
 | 🏆 | Achievement | Details |
 |----|------------|---------|
-| 🎓 | Data Science Training | Completed 8-month intensive Data Science program |
-| 🤖 | Generative AI Full Stack | Completed program at Karka AI & Tech Academy |
-| 📊 | Power BI Dashboards | Built production-grade business intelligence dashboards |
-| ⚙️ | FastAPI Backend Systems | Developed validated backend workflow applications |
-| 🧠 | AI/ML Active Learner | Continuously upskilling in ML, NLP, LLMs & Generative AI |
-| 💻 | LeetCode | Active problem solver — [JananiR03](https://leetcode.com/JananiR03/) |
+| 🤖 | Gen AI Full Stack Certification | Karka AI & Tech Academy — Nov 2025 to Mar 2026 |
+| 📊 | Data Science Certification | GTech Institution — Dec 2024 to Sep 2025 |
+| 🏥 | AI Clinical Workflow System | Built RAG backend managing 200+ patient records with 10+ REST APIs |
+| 🎯 | Sentiment Analysis Model | Achieved **85% accuracy** with LSTM on 1,000+ product reviews |
+| 📈 | Business Intelligence Dashboards | Analyzed 8,000+ records; built production Power BI dashboards |
+| 🐳 | Dockerized AI Deployment | Containerized and deployed FastAPI + RAG applications |
+| 🧠 | LLM Integration | Integrated GPT-4, Groq API, LangChain, FAISS, Hugging Face in real projects |
 
 </div>
 
@@ -204,9 +228,9 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| B.Sc Computer Science | Tamil Nadu, India | 2024 | Graduate |
+| Degree | Institution | Duration | CGPA |
+|--------|-------------|----------|------|
+| B.Sc Computer Science | Manonmaniam Sundaranar University, Tamil Nadu | Jul 2022 – Apr 2025 | 7.07 / 10 |
 
 </div>
 
@@ -215,12 +239,12 @@ print(me.motto())
 ## 🌱 Currently Learning
 
 ```
-🧠 Large Language Models (LLMs)   → Prompt Engineering, Fine-tuning, LangChain
-🔗 Retrieval-Augmented Generation → Vector DBs, Embeddings, RAG Pipelines
-🤖 AI Agents                      → Tool Use, Agentic Workflows, AutoGen
-⚡ Advanced FastAPI                → Auth, Async, Microservices, Deployment
-🧬 Deep Learning                  → CNNs, RNNs, Transformers, PyTorch
-📊 Advanced Power BI              → DAX, Data Modeling, Premium Features
+🧠 Large Language Models (LLMs)     → GPT-4, LLaMA 2, Fine-tuning, OpenAI APIs
+🔗 Advanced RAG Pipelines           → FAISS, Vector DBs, Embeddings, Semantic Search
+🤖 AI Agents                        → Tool Use, Agentic Workflows, AutoGen, LangGraph
+⚡ Advanced FastAPI                  → Auth, Async, Microservices, Scalable Deployment
+🧬 Deep Learning                    → CNNs, RNNs, Transformers, PyTorch, TensorFlow
+🐳 Docker & DevOps                  → Multi-container Apps, CI/CD, API Testing
 ```
 
 ---
@@ -229,16 +253,17 @@ print(me.motto())
 
 <div align="center">
   <a href="mailto:sivajanani07@gmail.com"><img src="https://img.shields.io/badge/Gmail-sivajanani07%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/siva-janani-r-55b359366/"><img src="https://img.shields.io/badge/LinkedIn-Siva%20Janani-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/JananiR03/"><img src="https://img.shields.io/badge/LeetCode-JananiR03-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/siva-janani-r-55b359366"><img src="https://img.shields.io/badge/LinkedIn-Siva%20Janani-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
   <a href="https://github.com/Sivajanani2004"><img src="https://img.shields.io/badge/GitHub-Sivajanani2004-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>"Turn data into decisions. Turn ideas into systems."</i><br/>
-  <b>— Siva Janani 🔍</b>
+  <i>"Build intelligent systems. Let data do the talking."</i><br/>
+  <b>— Siva Janani R 🔍</b>
 </div>
 
 <br/>
